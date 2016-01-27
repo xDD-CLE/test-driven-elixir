@@ -14,6 +14,17 @@ Some of his philosphy and teachings heavily influenced my views on communication
 
 I see this with my children. Their vocabulary is growing, but sometimes they become frustrated when they can't communicate their wants or how they're feeling (they're 4 and 1). I still feel this sometimes when I'm unsure how to communicate what I'm thinking or feeling and have to slow down, collect my thoughts, maybe draw things out, or find some mechanism to sort it all out and make sense of it.
 
---- WIP ... ---
-- communication (T
+The more I learn how to communicate what I'm learning, the easier it becomes to learn more (that was a lot of "learns" :) ) When I know how to express an idea or concept, I can communicate this to others, build off of it, and grow. 
+
+When I first learned how to program, I was just hacking away trying to get the computer to do things. I wasn't focused on communication and soon learned how much that would bite me later on down the road. When I'd come back to programs I'd written, or try to build off of programs others had written, I would struggle. Code really IS read more often than it's written. I started to pay more attention to that.
+
+I read clean code, I embraced craftsmanship, TDD, BDD, and ATDD. These things helped, and continue to help me.
+
+In this journey I paired with some folks and learned a little Ruby. This was the first language to really change the way I think. I thought I "got" OOP. Then Ruby came along. Boy was I wrong. Ruby taught me more about OOP in a few short hours than I'd ever learned in years of programming in other languages. 
+
+I've applied some of what I've learned from Ruby and other languages to other styles of development independent of the language. That's the joy of being a polyglot :)
+
+So... Elixir
+
+
 
