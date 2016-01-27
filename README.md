@@ -25,6 +25,13 @@ In this journey I paired with some folks and learned a little Ruby. This was the
 I've applied some of what I've learned from Ruby and other languages to other styles of development independent of the language. That's the joy of being a polyglot :)
 
 So... Elixir
+One of the people who I follow in the development communities is Dave Thomas. He and Andy Hunt wrote the Pick-Axe book a while back. He's been a key figure in the Ruby community for quite some time.
+
+I watched him begin talking a bit about Elixir not too long ago, saw he'd written a book about it, and saw he was becoming more and more active in the Elixir community. I became curious and decided to check it out.
+
+I've continued to stay curious. He'd given a few talks and explained that Elixir definitely challenged and changed the way he thought. I've found that it's done the same for me and I hope it does for you. If you'd like to share your "why", I encourage you to do so - I'm curious :)
+
+And so, the journey continues...
 
 
 
