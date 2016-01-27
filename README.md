@@ -20,16 +20,16 @@ When I first learned how to program, I was just hacking away trying to get the c
 
 I read clean code, I embraced craftsmanship, TDD, BDD, and ATDD. These things helped, and continue to help me.
 
-In this journey I paired with some folks and learned a little Ruby. This was the first language to really change the way I think. I thought I "got" OOP. Then Ruby came along. Boy was I wrong. Ruby taught me more about OOP in a few short hours than I'd ever learned in years of programming in other languages. 
+In this journey I paired with some folks and learned a little Ruby. This was the first language to really change the way I think. I thought I "got" OOP. Then [Ruby](http://poignant.guide/) came along. Boy was I wrong. Ruby taught me more about OOP in a few short hours than I'd ever learned in years of programming in other languages. 
 
 I've applied some of what I've learned from Ruby and other languages to other styles of development independent of the language. That's the joy of being a polyglot :)
 
 So... Elixir
-One of the people who I follow in the development communities is Dave Thomas. He and Andy Hunt wrote the Pick-Axe book a while back. He's been a key figure in the Ruby community for quite some time.
+One of the people who I follow in the development communities is Dave Thomas. He and Andy Hunt wrote the [Pick-Axe book](https://pragprog.com/book/ruby/programming-ruby) a while back. He's been a key figure in the Ruby community for quite some time.
 
 I watched him begin talking a bit about Elixir not too long ago, saw he'd written a book about it, and saw he was becoming more and more active in the Elixir community. I became curious and decided to check it out.
 
-I've continued to stay curious. He'd given a few talks and explained that Elixir definitely challenged and changed the way he thought. I've found that it's done the same for me and I hope it does for you. If you'd like to share your "why", [I encourage you to do so](https://github.com/xDD-CLE/test-driven-elixir/blob/master/whys/.gitignore) - I'm curious :)
+I've continued to stay curious. He'd given a few talks and explained that Elixir definitely [challenged and changed the way he thought](https://www.youtube.com/watch?v=5hDVftaPQwY). I've found that it's done the same for me and I hope it does for you. If you'd like to share your "why", [I encourage you to do so](https://github.com/xDD-CLE/test-driven-elixir/blob/master/whys/.gitignore) - I'm curious :)
 
 And so, the journey continues...
 
