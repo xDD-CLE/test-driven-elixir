@@ -16,7 +16,7 @@ I see this with my children. Their vocabulary is growing, but sometimes they bec
 
 The more I learn how to communicate what I'm learning, the easier it becomes to learn more (that was a lot of "learns" :) ) When I know how to express an idea or concept, I can communicate this to others, build off of it, and grow. 
 
-When I first learned how to program, I was just hacking away trying to get the computer to do things. I wasn't focused on communication and soon learned how much that would bite me later on down the road. When I'd come back to programs I'd written, or try to build off of programs others had written, I would struggle. Code really IS read more often than it's written. I started to pay more attention to that.
+When I first learned how to program, I was just hacking away trying to get the computer to do things. I wasn't focused on communication and soon learned how much that would bite me later on down the road. When I'd come back to programs I'd written, or try to build off of programs others had written, I would struggle. Code really IS read more often than it's written. I started to pay more attention to that - a lot more attention.
 
 I read clean code, I embraced craftsmanship, TDD, BDD, and ATDD. These things helped, and continue to help me.
 
